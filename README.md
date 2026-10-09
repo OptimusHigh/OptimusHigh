@@ -1,42 +1,51 @@
-# OptimusHigh — Личный сайт-портфолио
+# Привет, я Optimus High 👋
 
-Современный, сверхбыстрый и визуально чистый одностраничный сайт-портфолио для демонстрации реальных коммерческих проектов, собственных сервисов и серверных решений.
+> **Разработчик веб-сервисов, Telegram-приложений и сложных технических решений под ключ.**  
+> Делаю надежные проекты для бизнеса и людей: без абонентских плат за конструкторы, без скрытых расходов и без лишней головной боли.
 
-## 🚀 Особенности
+<p align="left">
+  <a href="https://optimushigh.github.io/OptimusHigh/">
+    <img src="https://img.shields.io/badge/🌐_Сайт--портфолио-Открыть-10b981?style=for-the-badge" alt="Сайт-портфолио" />
+  </a>
+  <a href="https://t.me/mc_pluck">
+    <img src="https://img.shields.io/badge/Telegram-@mc__pluck-06b6d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/create-rf-crafter">
+    <img src="https://img.shields.io/badge/CurseForge-Моды_и_релизы-f16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
+  </a>
+</p>
 
-- **Чистый стек без зависимостей:** Чистый HTML5, модульный семантический CSS с переменными и легковесный Vanilla JS. Никаких `node_modules` и тяжелых библиотек.
-- **Ориентация на клиентов:** Описания сфокусированы на понятной пользе, решении конкретных проблем и измеримом результате для бизнеса.
-- **Сверхбыстрая скорость:** 95–100 баллов в Google PageSpeed Insights, мгновенный первый кадр на мобильных устройствах.
-- **Dark Minimalist дизайн:** Премиальная темная цветовая гамма, плавная прокрутка, карточки с акцентными плашками и адаптивность под любые экраны.
-- **Готовность к GitHub Pages:** Запускается «из коробки» на `https://<username>.github.io/<repo>/` или на собственном поддомене (например, `me.ganj4craft.ru`).
+---
 
-## 📁 Структура проекта
+### 💡 Чем я занимаюсь и чем могу помочь:
 
-```
-optimushigh/
-├── index.html            # Основная страница портфолио
-├── css/
-│   └── style.css         # Дизайн-система, темная тема и адаптивные стили
-├── js/
-│   └── main.js           # Интерактивная фильтрация, буфер обмена и меню
-├── assets/               # Графика и ассеты проектов
-├── PORTFOLIO_RESEARCH.md # Исходное продуктовое исследование воркспейса
-└── README.md             # Справка по проекту и деплою
-```
+* 🚀 **Сайты для бизнеса без абонентской платы:**  
+  Создаю чистые, сверхбыстрые сайты (HTML5 / CSS / Vanilla JS) с загрузкой 95+ PageSpeed. Клиент не платит каждый месяц за Tilda/Webflow — проект навсегда принадлежит ему.
+* 🤖 **Telegram-экосистемы и мультимедиа:**  
+  Разрабатываю Telegram Mini Apps, ботов для продаж, а также стриминговые сервисы, использующие Telegram как бесплатное облачное хранилище без затрат на дорогие серверные диски.
+* 🎥 **Мультистриминг и трансляции:**  
+  Настраиваю серверные ретрансляторы (Nginx RTMP, FFmpeg), позволяющие стримить из 1 потока сразу на YouTube, Twitch, Kick и VK Play с управлением метаданными через Telegram-бота со смартфона.
+* 🎮 **Геймдев, серверная логика и античиты:**  
+  Разрабатываю десктопные лаунчеры (Electron) с 1-клик входом, серверные античиты (Java 21 / Bytecode Mixins), внутриигровые REST API и сбалансированные игровые экономики.
+* 🛠️ **Решение нестандартных и «нерешаемых» задач:**  
+  Аудит чужого кода, поиск утечек памяти, устранение фатальных вылетов и написание специализированных генераторов данных.
 
-## 🌐 Деплой на GitHub Pages
+---
 
-1. Инициализируйте Git-репозиторий (если еще не создан):
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial portfolio release"
-   ```
-2. Создайте репозиторий на GitHub (например, `optimushigh` или `optimushigh.github.io`) и привяжите remote:
-   ```bash
-   git remote add origin https://github.com/OptimusHigh/optimushigh.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. В настройках репозитория на GitHub перейдите в **Settings → Pages** и выберите ветку `main` (папка `/ (root)`).
-4. (Опционально) Привяжите свой поддомен в поле **Custom domain** (например, `portfolio.ganj4craft.ru`).
+### 🏆 Избранные проекты:
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| 💇‍♀️ **[Oksana Moroz Studio](https://oksanamoroz.ru/)** | Коммерческий сайт салона колористики в Москве. 0₽ за конструкторы, мгновенная загрузка на смартфонах. | HTML5, GSAP, AVIF/WebP, Nginx |
+| 🎧 **[AuxBass (TG Player)](https://github.com/OptimusHigh/auxbass)** | Музыкальный стриминговый плеер в стиле Hi-Fi аппаратуры без затрат на хранилище. | FastAPI, Vue 3, Aiogram 3, PWA |
+| ⚙️ **[Create: RF Crafter](https://www.curseforge.com/minecraft/mc-mods/create-rf-crafter)** | Опубликованный на CurseForge мод компактной автоматизации верстаков. | Java 21, NeoForge, JEI API |
+| 🛡️ **[GanjaCraft Infrastructure](https://launcher.ganj4craft.ru)** | Десктоп-лаунчер на Electron, крипто-античит GanjaGate, Yggdrasil API и ForgePipe. | Electron, Bytecode Mixins, Python |
+| 🗺️ **[BlueMap TFC Compatibility](https://github.com/OptimusHigh)** | Автоматический Python-генератор 3D-веб-карт для сервера, устранивший битые текстуры. | Python, Pillow, BlueMap API |
+
+---
+
+### 📬 Связаться со мной:
+
+* **Telegram:** [@mc_pluck](https://t.me/mc_pluck) *(самый быстрый способ связи)*
+* **Email:** [asukanitro@gmail.com](mailto:asukanitro@gmail.com)
+* **Портфолио:** [optimushigh.github.io/OptimusHigh](https://optimushigh.github.io/OptimusHigh/)
