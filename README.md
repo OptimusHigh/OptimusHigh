@@ -4,7 +4,7 @@
 > Делаю надежные проекты для бизнеса и людей: без абонентских плат за конструкторы, без скрытых расходов и без лишней головной боли.
 
 <p align="left">
-  <a href="https://optimushigh.github.io/OptimusHigh/">
+  <a href="https://optimushigh.github.io/">
     <img src="https://img.shields.io/badge/🌐_Сайт--портфолио-Открыть-10b981?style=for-the-badge" alt="Сайт-портфолио" />
   </a>
   <a href="https://t.me/mc_pluck">
@@ -48,4 +48,4 @@
 
 * **Telegram:** [@mc_pluck](https://t.me/mc_pluck) *(самый быстрый способ связи)*
 * **Email:** [asukanitro@gmail.com](mailto:asukanitro@gmail.com)
-* **Портфолио:** [optimushigh.github.io/OptimusHigh](https://optimushigh.github.io/OptimusHigh/)
+* **Портфолио:** [optimushigh.github.io](https://optimushigh.github.io/)
